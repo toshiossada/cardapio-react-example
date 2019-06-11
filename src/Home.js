@@ -1,5 +1,3 @@
-import React, { Component } from 'react';
-import { View, Image, StyleSheet } from 'react-native';
 import { createStackNavigator, createAppContainer } from 'react-navigation';
 
 import HomeList from './HomeList';
